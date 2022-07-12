@@ -1,5 +1,5 @@
 # Merdeka-atau-Kalah
-Merdeka atau kalah merupakan sebuah game pc dengan tema kemerdekaan yang diciptakan guna memperingati Hari Kemerdekaan Indonesia dan untuk meningkatkan rasa nasionalitas untuk para pemuda sebagai penerus perjuangan bangsa Indonesia.
+Merdeka atau kalah merupakan sebuah game pc dengan tema kemerdekaan yang diciptakan guna memperingati Hari Kemerdekaan Indonesia dan untuk meningkatkan rasa nasionalitas untuk para pemuda sebagai penerus perjuangan bangsa Indonesia.  
 <img src="https://img.itch.zone/aW1hZ2UvMTYxMDg0Mi85NDI4ODI0LnBuZw==/347x500/WHLHYv.png">
 
 Game ini dapat dimainkan pada platform Laptop/PC yang terdiri dari 2 orang pemain. Dan dalam game ini terdapat sub kategori permainan, yaitu: 
